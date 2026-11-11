@@ -1,0 +1,24 @@
+{
+  "name":"AvaliacaoBack",
+  "version": "1.0.0",
+  "description": "AvaliacaoBack",
+  "homepage": "https://github.com/kaue.borges/AvaliacaoBack",
+  "bugs": {
+    "url": "https://github.com/kaue.borges/AvaliacaoBack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaue.borges/AvaliacaoBack"
+  },
+  "license": "ISC",
+  "author": "Kaue Borges",
+  "type": "module",
+  "main": "exemplo.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
